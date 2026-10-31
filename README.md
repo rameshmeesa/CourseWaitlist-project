@@ -34,6 +34,8 @@ Repeated drop	Return clear failure
 Invalid learner ID	Reject request
 
 Waitlist policy: FIFO with eligibility skipping. An ineligible learner is removed from the active queue and skipped during promotion. They must satisfy the prerequisite before submitting a new enrollment request.
+
+
 3. Proposed project structure
 CourseWaitlist/
 │
